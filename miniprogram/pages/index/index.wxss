@@ -1,0 +1,7 @@
+/**index.wxss**/
+/* 浮动按钮样式 */
+.floatBtn{
+  position: fixed;
+  top: 50rpx;
+  right: 50rpx;
+}

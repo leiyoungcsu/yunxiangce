@@ -1,0 +1,15 @@
+/* pages/detail/detail.wxss */
+/* 图片样式 */
+image{
+  width: 750rpx;
+}
+
+/* 按钮区域 */
+view{
+  padding:0 50rpx;
+}
+
+/* 按钮样式 */
+button{
+  margin: 10rpx;
+}
